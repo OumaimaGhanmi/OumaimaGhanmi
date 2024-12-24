@@ -1,9 +1,10 @@
-![Data Analysis GIF](https://media.tenor.com/images/3d63cf0e7cfe99d1a7e29cda3203fa93/tenor.gif)
 
 
 <h1 align="center">Hi 👋, I'm Oumaima Ghanmi</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif"/>
+
 <h3 align="center">Je suis une développeuse Full Stack passionnée, spécialisée dans les technologies web modernes telles qu'Angular Spring Boot et Bootstrap. Mon expertise me permet de concevoir et de développer des applications évolutives et performantes, offrant une expérience utilisateur fluide tout en intégrant une logique robuste côté serveur. Avec une maîtrise approfondie du développement front-end et back-end, je suis également passionnée par la science des données et l'apprentissage automatique. Toujours curieuse et motivée par l'apprentissage continu, j'aime relever des projets complexes et stimulants qui favorisent l'innovation. Mon objectif est de fusionner mes compétences en développement et en data science pour créer des solutions technologiques impactantes.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaimaGhanmi&label=Profile%20views&color=0e75b6&style=flat" alt="OumaimaGhanmi" /> </p>
 
