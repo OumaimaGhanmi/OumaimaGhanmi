@@ -28,8 +28,7 @@
 
 Voici un exemple en HTML pour inclure des liens cliquables :
 
-html
-Copier le code
+
 🔗 **Connectez-vous avec moi :**  
 **💼 [LinkedIn](https://www.linkedin.com/in/oghanmi01/)**  
 **📧 [Email](oumaima.ghanmi15@gmail.com)**  
