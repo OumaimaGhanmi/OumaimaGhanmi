@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Oumaima Ghanmi</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif"/>
 
-<h3 align="center">Je suis une développeuse Full Stack passionnée, spécialisée dans les technologies web modernes telles qu'Angular Spring Boot et Bootstrap. Mon expertise me permet de concevoir et de développer des applications évolutives et performantes, offrant une expérience utilisateur fluide tout en intégrant une logique robuste côté serveur. Avec une maîtrise approfondie du développement front-end et back-end, je suis également passionnée par la science des données et l'apprentissage automatique. Toujours curieuse et motivée par l'apprentissage continu, j'aime relever des projets complexes et stimulants qui favorisent l'innovation. Mon objectif est de fusionner mes compétences en développement et en data science pour créer des solutions technologiques impactantes.</h3>
-<img align="right" alt="Coding" width="400" 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaimaGhanmi&label=Profile%20views&color=0e75b6&style=flat" alt="OumaimaGhanmi" /> </p>
+<h3 align="center">
+ Développeuse Full Stack passionnée, spécialisée dans les technologies web modernes telles qu'Angular, Spring Boot et Bootstrap. Forte d'une expertise approfondie en développement front-end et back-end, je crée des applications évolutives et performantes, offrant une expérience utilisateur fluide. Passionnée par la science des données et l'apprentissage automatique, je cherche à intégrer ces domaines dans mes projets pour les rendre plus innovants et efficaces. Motivée par l'apprentissage continu, je m'engage à relever des défis complexes et à créer des solutions technologiques ayant un impact réel.
+</h3>
 
 
 🛠️ Technologies & Tools
