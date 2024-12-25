@@ -26,10 +26,7 @@
 <h3 align="left">🔗 Connectez-vous avec moi :</h3>
 <p align="left">
 
-Voici un exemple en HTML pour inclure des liens cliquables :
 
-
-🔗 **Connectez-vous avec moi :**  
 **💼 [LinkedIn](https://www.linkedin.com/in/oghanmi01/)**  
 **📧 [Email](oumaima.ghanmi15@gmail.com)**  
 
