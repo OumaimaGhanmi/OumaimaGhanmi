@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Oumaima Ghanmi</h1>
+<h1 align="center">Hi 👋, I'm oumaima ghanmi</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif"/>
 
 <h3 align="center">
